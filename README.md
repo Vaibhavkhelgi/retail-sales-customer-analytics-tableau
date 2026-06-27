@@ -43,10 +43,10 @@ An interactive Tableau dashboard built to analyze retail sales performance and c
 ##  Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](images/Sales-Dashboard.png)
+![Sales Dashboard](images/sales-dashboard.png)
 
 ### Customer Dashboard
-![Customer Dashboard](images/Customer-Dashboard.png)
+![Customer Dashboard](images/customer-dashboard.png)
 
 ---
 
