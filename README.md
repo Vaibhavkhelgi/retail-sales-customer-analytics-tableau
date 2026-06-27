@@ -6,7 +6,7 @@ An interactive Tableau dashboard built to analyze retail sales performance and c
 
 ---
 
-## 📌 Features
+##  Features
 
 ### Sales Dashboard
 - Year-over-year comparison of Sales, Profit, and Quantity
@@ -29,7 +29,7 @@ An interactive Tableau dashboard built to analyze retail sales performance and c
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Tableau Public
 - Tableau Desktop
@@ -37,20 +37,20 @@ An interactive Tableau dashboard built to analyze retail sales performance and c
 - Parameters
 - Dashboard Actions
 - CSV Data Sources
-- 
+   
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](images/Sales Dashboard.png)
+![Sales Dashboard](images/Sales-Dashboard.png)
 
 ### Customer Dashboard
-![Customer Dashboard](images/Customer Dashboard.png)
+![Customer Dashboard](images/Customer-Dashboard.png)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Vaibhav Khelgi**
 
